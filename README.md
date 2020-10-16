@@ -1,4 +1,4 @@
-### Hi there, I'm Priyadarshan Ghosh [website] 👋
+# Hey,  I'm Priyadarshan <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 
 ## I'm a  Developer and Student!
