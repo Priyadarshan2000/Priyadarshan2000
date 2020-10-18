@@ -9,6 +9,7 @@
 - ⏳ Experimenting with **JS**
 - ⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
 - ⚡ **Top 107 participants in Indian super brain(cyber security)**
+- ⚡ **Top 4 participants in CODIFICATION (State)**
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **I love to Coding.**
 
