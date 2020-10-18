@@ -8,8 +8,10 @@
 - 🥅 2020 Goals: Contribute more  projects
 - ⏳ Experimenting with **JS**
 - ⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
+- ⚡ **Top 107 participants in Indian super brain(cyber security)**
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **I love to Coding.**
+
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
