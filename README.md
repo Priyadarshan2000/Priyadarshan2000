@@ -7,7 +7,7 @@
 - 🌱 I’m currently **learning everything 🤣**
 - 🥅 2020 Goals: Contribute more  projects
 - ⏳ Experimenting with **JS**
- -⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
+- ⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **I love to Coding.**
 
