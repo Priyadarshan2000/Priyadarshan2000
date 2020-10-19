@@ -12,7 +12,7 @@
 - ⚡ **Top 4 participants in CODIFICATION (State)**
 - ⚡ **5171st Place in Google Kick Start 2020 Round G**
 - 💬 Ask me **something interesting**
-- ⚡ Fun fact: **Coding is My Crush🤣**
+- ⚡ Fun fact: **Coding is My Crush**
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
