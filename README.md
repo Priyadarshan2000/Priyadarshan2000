@@ -10,8 +10,9 @@
 - ⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
 - ⚡ **Top 107 participants in Indian super brain(cyber security)**
 - ⚡ **Top 4 participants in CODIFICATION (State)**
+- ⚡ **5171st Place in Google Kick Start 2020 Round G**
 - 💬 Ask me **something interesting**
-- ⚡ Fun fact: **I love to Coding.**
+- ⚡ Fun fact: **Coding is My Crush🤣**
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
