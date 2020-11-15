@@ -58,11 +58,11 @@
 
 ![Priyadarshan's github stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical&hide=issues,contribs)
 
-
-
-<br />
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&exclude_repo=Machine-learning-Notebooks)](https://github.com/Priyadarshan2000/github-readme-stats)
+
+<br />
+<br />
+
 
 
 [website]: https://priyadarshanghosh.blogspot.com/
