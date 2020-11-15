@@ -54,7 +54,7 @@
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmukherjee2001&exclude_repo=Machine-learning-Notebooks)](https://github.com/Priyadarshan2000/github-readme-stats
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmukherjee2001&exclude_repo=Machine-learning-Notebooks)](https://github.com/Priyadarshan2000/github-readme-stats)
