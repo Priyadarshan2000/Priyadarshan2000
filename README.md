@@ -54,7 +54,7 @@
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 
-<h1 align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&exclude_repo=Machine-learning-Notebooks)] (https://github.com/Priyadarshan2000/github-readme-stats)</h1>
+
 
 ![Priyadarshan's github stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical&hide=issues,contribs)
 
@@ -62,6 +62,7 @@
 
 <br />
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&exclude_repo=Machine-learning-Notebooks)](https://github.com/Priyadarshan2000/github-readme-stats)
 
 
 [website]: https://priyadarshanghosh.blogspot.com/
