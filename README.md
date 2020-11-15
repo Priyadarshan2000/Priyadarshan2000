@@ -16,7 +16,7 @@
 - ⚡ Fun fact: **Coding is My Crush**
 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="Coder GIF" width="500" height="400">
 
 
 
