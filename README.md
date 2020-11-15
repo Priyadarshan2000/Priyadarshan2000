@@ -11,6 +11,7 @@
 - ⚡ **Top 107 participants in Indian super brain(cyber security)**
 - ⚡ **Top 4 participants in CODIFICATION (State)**
 - ⚡ **5171st Place in Google Kick Start 2020 Round G**
+- ⚡ **2705th Place in Google Kick Start 2020 Round H**
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **Coding is My Crush**
 
@@ -56,6 +57,7 @@
 
 <br />
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragmukherjee2001&exclude_repo=Machine-learning-Notebooks)](https://github.com/Priyadarshan2000/github-readme-stats)
 
 
 [website]: https://priyadarshanghosh.blogspot.com/
