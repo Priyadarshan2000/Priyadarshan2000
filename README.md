@@ -64,6 +64,15 @@
 <br />
 <br />
 
+<p align="center">
+  <a href="https://github.com/Priyadarshan2000/energize">
+    <img width="44%" src="assets/EnergizeTitle.png" />
+  </a>
+  <a href="https://github.com/Priyadarshan2000/outerstellar">
+    <img width="53%" src="assets/OuterstellarTitle.png" />
+  </a>
+</p>
+
 
 
 [website]: https://priyadarshanghosh.blogspot.com/
