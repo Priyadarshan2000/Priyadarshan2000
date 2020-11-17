@@ -59,11 +59,6 @@
 
 ![Priyadarshan's github stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical&hide=issues,contribs)
 
-
-
-<br />
-<br />
-
 <p align="center">
   <a href="https://github.com/Priyadarshan2000/energize">
     <img width="44%" src="assets/EnergizeTitle.png" />
@@ -72,6 +67,11 @@
     <img width="53%" src="assets/OuterstellarTitle.png" />
   </a>
 </p>
+
+<br />
+<br />
+
+
 
 
 
