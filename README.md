@@ -23,30 +23,28 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/swapnanildutta1">
-  <img align="left" alt="Swapnanil Dutta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/way2priyo">
+  <img align="left" alt="Priyadarshan Ghosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/swapnanil-dutta-8898ba92/">
+<a href="https://www.linkedin.com/in/priyadarshan-ghosh-0a6274190/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/swapnanildutta">
+<a href="https://github.com/Priyadarshan2000">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="mailto:swapnanildutta2000@gmail.com">
+<a href="mailto:priyadarshanghosh26@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.facebook.com/swapnanil.dutta.5/">
+<a href="https://www.facebook.com/priyadarshan.ghosh.9/">
   <img align="left" alt=" Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/swapnanildutta/">
+<a href="https://www.instagram.com/way2priyadarshan/">
   <img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/swapnanildutta">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://www.codechef.com/users/swapnanil2000">
+
+<a href="https://www.codechef.com/users/priyadarshan_2">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a href="https://www.hackerrank.com/swapnanildutta21">
+<a href="https://www.hackerrank.com/priyadarshangho1">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br></br>
