@@ -74,9 +74,12 @@
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&exclude_repo=Machine-learning-Notebooks)](https://github.com/Priyadarshan2000/github-readme-stats)
+<p align="center">
+<a href="https://github.com/Priyadarshan2000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&theme=dark&hide_langs_below=1&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Priyadarshan's github stats"/>
+</a></p>
 
-![Priyadarshan's github stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical&hide=issues,contribs)
 
 
 <br />
