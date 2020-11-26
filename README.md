@@ -42,6 +42,8 @@
   <img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+[<img align="left" alt="priyadarshan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 <a href="https://www.codechef.com/users/priyadarshan_2">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 <a href="https://www.hackerrank.com/priyadarshangho1">
