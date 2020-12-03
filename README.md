@@ -7,12 +7,13 @@
 - 🌱 I’m currently **learning everything 🤣**
 - 🥅 2020 Goals: Contribute more  projects
 - ⏳ Experimenting with **JS**
+- ⚡ **Hacktoberfest Contributor[2020]**
 - ⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
 - ⚡ **Top 107 participants in Indian super brain(cyber security)**
 - ⚡ **Top 4 participants in CODIFICATION (State)**
 - ⚡ **5171st Place in Google Kick Start 2020 Round G**
 - ⚡ **2705th Place in Google Kick Start 2020 Round H**
-- ⚡ **Top 10 Finalist in TOI Lost Vote Challenge in India**
+- ⚡ **Top 10 Finalist in TOI Lost Vote Challenge in India** 
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **Coding is My Crush**
 
