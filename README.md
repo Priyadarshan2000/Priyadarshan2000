@@ -14,7 +14,7 @@
 - ⚡ **4th Position in National Level Cipherthon Hackathon.**
 - ⚡ **5171st Place in Google Kick Start 2020 Round G**
 - ⚡ **2705th Place in Google Kick Start 2020 Round H**
-- ⚡ **Top 10 Finalist in TOI Lost Vote Challenge in India** 
+- ⚡ **Top 4  in TOI Lost Vote Challenge in India** 
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **Coding is My Crush**
 
