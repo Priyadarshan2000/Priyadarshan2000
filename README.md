@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android & Web Project** 
 - 🌱 I’m currently **learning everything 🤣**
-- 🥅 2020 Goals: Contribute more  projects
+- 🥅 2021 Goals: Contribute more  projects
 - ⏳ Experimenting with **JS**
 - ⚡ **Hacktoberfest Contributor[2020]**
 - ⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
