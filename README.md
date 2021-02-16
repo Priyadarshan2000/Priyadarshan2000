@@ -17,6 +17,8 @@
 - ⚡ **Top 4  in TOI Lost Vote Challenge in India** 
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **Coding is My Crush**
+- ⚡ Co-Founder of **Digicure organisation**
+- ⚡ Co-Founder of **TechDevs organisation**
 
 
 <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="Coder GIF" width="500" height="400">
@@ -77,7 +79,7 @@
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <p align="center">
 <a href="https://github.com/Priyadarshan2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&theme=dark&hide_langs_below=1&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
