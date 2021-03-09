@@ -88,9 +88,9 @@
 </a></p>
 
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Priyadarshan2000/count.svg" />
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Priyadarshan2000"></a>
+  
 </p>
 
 
