@@ -21,7 +21,7 @@
 - ⚡ Co-Founder of **TechDevs organisation**
 
 
-<img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="Coder GIF" width="500" height="400">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder GIF" width="500" height="400">
 
 
 
