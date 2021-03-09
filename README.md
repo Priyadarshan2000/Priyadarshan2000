@@ -88,7 +88,7 @@
 </a></p>
 
 
-<palign="center">
+<p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Priyadarshan2000"></a>
   
 </p>
