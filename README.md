@@ -88,11 +88,10 @@
 </a></p>
 
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" />
-</p>
-<br />
-<br />
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p> -->
 
 
 [website]: https://priyadarshanghosh.blogspot.com/
