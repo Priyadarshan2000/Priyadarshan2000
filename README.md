@@ -25,7 +25,7 @@
 
 
 
-### Connect with me:
+### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 [<img align="left" alt="priyadarshan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <a href="https://twitter.com/way2priyo">
