@@ -7,7 +7,7 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m currently working on **Android & Web Project** 
 - 🌱 I’m currently **learning everything 🤣**
 - 🥅 2021 Goals: Contribute more  projects
-- ⏳ Experimenting with **JS**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Experimenting with **JS**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Hacktoberfest Contributor[2020]**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 107 participants in Indian super brain(cyber security)**
@@ -18,8 +18,8 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 4  in TOI Lost Vote Challenge in India** 
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **Coding is My Crush**
-- ⚡ Co-Founder of **Digicure organisation**
-- ⚡ Co-Founder of **TechDevs organisation**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Co-Founder of **Digicure organisation**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Co-Founder of **TechDevs organisation**
 
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder GIF" width="500" height="400">
