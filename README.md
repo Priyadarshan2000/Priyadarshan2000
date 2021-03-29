@@ -1,4 +1,4 @@
-# Hey,  I'm Priyadarshan <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hey,  I'm Priyadarshan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85px">
 
 
 ## I'm a  Developer and Student!
