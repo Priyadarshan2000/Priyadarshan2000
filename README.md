@@ -8,14 +8,14 @@
 - 🌱 I’m currently **learning everything 🤣**
 - 🥅 2021 Goals: Contribute more  projects
 - ⏳ Experimenting with **JS**
-- ⚡ **Hacktoberfest Contributor[2020]**
-- ⚡ **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
-- ⚡ **Top 107 participants in Indian super brain(cyber security)**
-- ⚡ **Top 4 participants in CODIFICATION (State)**
-- ⚡ **4th Position in National Level Cipherthon Hackathon.**
-- ⚡ **5171st Place in Google Kick Start 2020 Round G**
-- ⚡ **2705th Place in Google Kick Start 2020 Round H**
-- ⚡ **Top 4  in TOI Lost Vote Challenge in India** 
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Hacktoberfest Contributor[2020]**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 107 participants in Indian super brain(cyber security)**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 4 participants in CODIFICATION (State)**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **4th Position in National Level Cipherthon Hackathon.**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **5171st Place in Google Kick Start 2020 Round G**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **2705th Place in Google Kick Start 2020 Round H**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 4  in TOI Lost Vote Challenge in India** 
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **Coding is My Crush**
 - ⚡ Co-Founder of **Digicure organisation**
