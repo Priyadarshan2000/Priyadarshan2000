@@ -17,7 +17,7 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **2705th Place in Google Kick Start 2020 Round H**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> **Top 4  in TOI Lost Vote Challenge in India** 
 - 💬 Ask me **something interesting**
-- ⚡ Fun fact: **Coding is My Crush**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> Fun fact: **Coding is My Crush**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Co-Founder of **Digicure organisation**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Co-Founder of **TechDevs organisation**
 
