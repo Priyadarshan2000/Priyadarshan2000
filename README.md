@@ -82,6 +82,9 @@
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 </br>
+## Top Languages
+[![Top Languages of Soumyadeep](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-99&layout=compact&langs_count=15)](https://github.com/soumya-99/github-readme-stats)
+
 <p align="center">
 <a href="https://github.com/Priyadarshan2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&theme=dark&hide_langs_below=1&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
