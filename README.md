@@ -87,7 +87,7 @@
 <p align="center">
 
 ## Top Languages
-[![Top Languages of Priyadarshan](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&layout=compact&langs_count=15)](https://github.com/Priyadarshan2000/github-readme-stats)
+[![Top Languages of Priyadarshan](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&layout=compact&langs_count=25)](https://github.com/Priyadarshan2000/github-readme-stats)
 
 <a href="https://github.com/Priyadarshan2000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&theme=dark&hide_langs_below=1&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
