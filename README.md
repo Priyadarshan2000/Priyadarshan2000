@@ -104,4 +104,4 @@
 </p>
 
 
-[website]: https://priyadarshanghosh.blogspot.com/
+[website]: http://priyadarshanghosh.me/
