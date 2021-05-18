@@ -99,6 +99,11 @@
 [![Priyadarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical)](https://github.com/Priyadarshan2000/github-readme-stats)
 ---
 
+<summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=Priyadarshan2000&theme=xcode" alt="Contribution Graph" align="center" />
+   
+   
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Priyadarshan2000"></a>
   
