@@ -103,6 +103,9 @@
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=Priyadarshan2000&theme=xcode" alt="Contribution Graph" align="center" />
    
+   <summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyadarshan2000&theme=monokai&row=1&no-frame=true&no-bg=true/">
    
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Priyadarshan2000"></a>
