@@ -57,6 +57,10 @@
 
 # Languages and Tools:
 
+<div align="center">
+	
+<br/>
+
 <img alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -77,6 +81,13 @@
 	<img alt="Postman" width="36px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
 	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<br/>
+
+</div>
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## Top Languages
