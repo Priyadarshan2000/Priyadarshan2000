@@ -84,7 +84,8 @@
 	<img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 	<img width="36px"  src="https://img.icons8.com/color/48/000000/flask.png"/>
 	<img width="36px"  src="https://img.icons8.com/nolan/96/php.png"/>
-	<img width="36px  src="https://img.icons8.com/nolan/96/java-coffee-cup-logo.png"/>
+	<img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
+	
 <br/>
 
 </div>
