@@ -81,7 +81,7 @@
 	<img alt="Postman" width="36px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
 	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
-	<img width="36px" src="<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>"/>
+	<img width="36px" src="<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <br/>
 
 </div>
