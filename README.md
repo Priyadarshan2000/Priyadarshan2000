@@ -98,7 +98,7 @@
 ## GitHub Stats
 [![Priyadarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical)](https://github.com/Priyadarshan2000/github-readme-stats)
 ---
- :trophy: Github Profile Trophy
+ :trophy: ## Github Profile Trophy
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Priyadarshan2000&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
