@@ -78,10 +78,11 @@
 	<img alt="GitHub" width="36px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 	<img alt="Wordpress" width="36px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-	<img alt="Postman" width="36px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
+	<img alt="Postman" width="36px" src="<img src="https://img.icons8.com/fluent/50/000000/android-os.png"/>"/>
 	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+	<img width="36px" src="<img src="https://img.icons8.com/color/48/000000/flask.png"/>"/>
 <br/>
 
 </div>
