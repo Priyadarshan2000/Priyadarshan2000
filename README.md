@@ -87,6 +87,7 @@
 	<img width="36px" src="https://img.icons8.com/fluent/96/000000/google-cloud.png"/>
 	<img width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/fa314a/tensorflow.png"/>
 	<img width="36px" src="https://img.icons8.com/color/96/000000/arduino.png"/>
 	<img width="36px"src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
 	<img width="36px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
