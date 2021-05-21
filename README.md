@@ -86,6 +86,9 @@
 	<img width="36px"  src="https://img.icons8.com/nolan/96/php.png"/>
 	<img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
 	<img width="36px" src="https://img.icons8.com/fluent/96/000000/google-cloud.png"/>
+	<img width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
+	<img width="36px" src="https://img.icons8.com/color/96/000000/arduino.png"/>
 	
 <br/>
 
