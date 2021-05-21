@@ -61,7 +61,7 @@
 	
 <br/>
 
-<img alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+	<img alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -89,6 +89,12 @@
 	<img width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
 	<img width="36px" src="https://img.icons8.com/color/96/000000/arduino.png"/>
+	<img width="36px"src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+	<img width="36px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/fa314a/adobe-xd.png"/>
+	<img width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png"/>
 	
 <br/>
 
