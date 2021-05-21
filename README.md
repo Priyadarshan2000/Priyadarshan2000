@@ -97,11 +97,10 @@
 	<img width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/azure-1.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/ms-one-note.png"/>
-	
+	<img width="36px" src="https://img.icons8.com/nolan/50/notion.png"/>
 <br/>
 
 </div>
-
 <br/>
 <br/>
 <br/>
