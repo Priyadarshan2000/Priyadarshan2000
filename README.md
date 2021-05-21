@@ -92,11 +92,11 @@
 	<img width="36px"src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
 	<img width="36px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-	<img width="36px src="https://img.icons8.com/color/48/fa314a/azure-1.png"/>
-	<img width="36px src="https://img.icons8.com/color/48/fa314a/ms-one-note.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/adobe-xd.png"/>
 	<img width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png"/>
+	<img width="36px src="https://img.icons8.com/color/48/fa314a/azure-1.png"/>
+	<img width="36px src="https://img.icons8.com/color/48/fa314a/ms-one-note.png"/>
 	
 <br/>
 
