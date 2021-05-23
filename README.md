@@ -55,7 +55,7 @@
 </a>
 <br></br>
 
-# Languages and Tools:
+## 💻 Languages and Tools:
 
 <div align="center">
 	
@@ -106,7 +106,7 @@
 <br/>
 <br/>
 
-## ⭐ Top Languages
+## Top Languages
 [![Top Languages of Priyadarshan](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&layout=compact&langs_count=25)](https://github.com/Priyadarshan2000/github-readme-stats)
 
 <!--- <a href="https://github.com/Priyadarshan2000">
@@ -114,7 +114,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="priyadarshan's github stats"/>
 </a></p>--->
 
-## GitHub Stats
+## ⭐ GitHub Stats
 [![Priyadarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical)](https://github.com/Priyadarshan2000/github-readme-stats)
 ---
  ## 🏆 Github Profile Trophy
