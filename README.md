@@ -106,7 +106,7 @@
 <br/>
 <br/>
 
-## Top Languages
+## ⭐ Top Languages
 [![Top Languages of Priyadarshan](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadarshan2000&layout=compact&langs_count=25)](https://github.com/Priyadarshan2000/github-readme-stats)
 
 <!--- <a href="https://github.com/Priyadarshan2000">
