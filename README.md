@@ -124,12 +124,12 @@
 [![Priyadarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical)](https://github.com/Priyadarshan2000/github-readme-stats)
 ---
  ## 🏆 Github Profile Trophy
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyadarshan2000&theme=ayu-mirage)](https://github.com/Priyadarshan2000/github-readme-streak-stats)
-
+ 
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Priyadarshan2000&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 ## 💯 Github Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyadarshan2000&theme=ayu-mirage)](https://github.com/Priyadarshan2000/github-readme-streak-stats)
 
 ##  📈 Contribution Graph 
    <br/>
