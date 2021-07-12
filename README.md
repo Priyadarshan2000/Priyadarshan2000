@@ -103,6 +103,7 @@
 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/azure-1.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/ms-one-note.png"/>
 	<img width="36px" src="https://img.icons8.com/nolan/50/notion.png"/>
+	<img width="36px" src="https://img.icons8.com/cute-clipart/64/000000/canva.png"/>"
 <br/>
 
 </div>
