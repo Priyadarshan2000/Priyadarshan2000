@@ -122,8 +122,9 @@
 
 ## ⭐ GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
----
- ## 🏆 Github Profile Trophy
+
+
+## 🏆 Github Profile Trophy
  
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Priyadarshan2000&theme=monokai&row=1&no-frame=true&no-bg=true/">
