@@ -121,7 +121,7 @@
 </a></p>--->
 
 ## ⭐ GitHub Stats
-[![Priyadarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=radical)](https://github.com/Priyadarshan2000/github-readme-stats)
+[![Priyadarshan's GitHub stats](<img src="https://github-readme-stats.vercel.app/api?username=Priyadarshan2000&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> )
 ---
  ## 🏆 Github Profile Trophy
  
