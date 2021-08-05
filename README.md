@@ -4,7 +4,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-## I'm a  Developer and Student!
+## 🚀 I'm a  Developer and Student!
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m currently working on **Android & Web Project** 
 - 🌱 I’m currently **learning everything 🤣**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> 2021 Goals: Contribute more  projects
