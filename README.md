@@ -135,12 +135,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyadarshan2000&theme=ayu-mirage)](https://github.com/Priyadarshan2000/github-readme-streak-stats)
 
 ##  📈 Contribution Graph 
-  <table>
+ <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyadarshan2000tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyadarshan2000&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=Priyadarshan2000tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Priyadarshan2000&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
 </table>
