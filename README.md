@@ -1,4 +1,4 @@
-<img src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/hello-hi.gif">
+<img src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/hello.gif">
 
 
 # I'm Priyadarshan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="85px">
