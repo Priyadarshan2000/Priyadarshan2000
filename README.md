@@ -10,7 +10,9 @@
 - 🌱 I’m currently **learning everything 🤣**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> 2021 Goals: Contribute more  projects
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Experimenting with **JS**
+- Cloud Engineer Intern @goldmansachs
 - <img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Hacktoberfest Contributor[2020]**
+ - <img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Hacktoberfest Contributor[2021]**
 - <img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Script  Winter of Code(SWOC) Contributor[2020]**
 - <img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **GirlScript Summer of Code(GSSOC) Contributor[2021]**
 - <img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**
