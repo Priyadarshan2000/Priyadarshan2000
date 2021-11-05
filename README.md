@@ -66,53 +66,105 @@
 
 ## 💻 Languages and Tools:
 
-<div align="center">
-	
-<br/>
-<img alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-	<img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-	<img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-	<img width="36px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
-	<img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-	<img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
-	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
-	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-	<img width="36px" src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
-	<img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
-	<img alt="GitHub" width="36px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
-	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-	<img alt="Wordpress" width="36px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-	<img alt="Postman" width="36px"  src="https://img.icons8.com/fluent/50/000000/android-os.png"/>
-	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-	<img width="36px"  src="https://img.icons8.com/color/48/000000/flask.png"/>
-	<img width="36px"  src="https://img.icons8.com/nolan/96/php.png"/>
-	<img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
-	<img width="36px" src="https://img.icons8.com/fluent/96/000000/google-cloud.png"/>
-	<img width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/fa314a/tensorflow.png"/>
-	<img width="36px" src="https://img.icons8.com/color/96/000000/arduino.png"/>
+<table width="100%">  
+<tr align="center">  
+<td width="545"><strong>LANGUAGES</strong></td>  
+<td width="466">
 	<img width="36px"src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
 	<img width="36px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+    <img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
+	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+    <img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
+	
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>FRONTEND</strong></td>  
+<td width="50%">
+	 <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img width="36px" src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
+	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
+    <img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
+	<img width="36px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>BACKEND</strong></td>  
+<td width="50%">
+     <img width="36px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
+	<img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
+	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+    <img width="36px"  src="https://img.icons8.com/nolan/96/php.png"/>
+    <img width="36px"  src="https://img.icons8.com/color/48/000000/flask.png"/>
+    <img width="36px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>APP DEVELOPMENT</strong></td>  
+<td width="50%">
+    <img alt="Postman" width="36px"  src="https://img.icons8.com/fluent/50/000000/android-os.png"/>
+	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+	<img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
+    <img width="36px" src="https://img.icons8.com/color/96/000000/flutter.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
+    <img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>VERSION CONTROL</strong></td>  
+<td width="50%">
+   <img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
+	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    <img alt="GitHub" width="36px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>IOT</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://img.icons8.com/color/96/000000/arduino.png"/>
+    <img width="36px" src="https://img.icons8.com/color/36/000000/c-plus-plus-logo.png"/>
+</td>  
+</tr> 
+<tr align="center">  
+<td width="50%"><strong>CLOUD TECH</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    <img width="36px" src="https://img.icons8.com/color/48/fa314a/azure-1.png"/>
+    <img width="36px" src="https://img.icons8.com/fluent/96/000000/google-cloud.png"/>
+    <img width="36px" src="https://img.icons8.com/windows/36/000000/digital-ocean.png"/>
+   
+</td>  
+</tr> 
+<tr align="center">  
+<td width="50%"><strong>COMPUTER VISION</strong></td>  
+<td width="50%">
+	<img width="36px" src="https://img.icons8.com/fluent/48/000000/opencv.png"/>
+    <img width="36px" src="https://img.icons8.com/color/48/fa314a/tensorflow.png"/>
+</td>  
+</tr> 
+<tr align="center">  
+<td width="50%"><strong>TOOLS</strong></td>  
+<td width="50%">
+	<img alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img width="36px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/adobe-xd.png"/>
 	<img width="36px" src="https://img.icons8.com/fluent/96/fa314a/adobe-photoshop.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/fa314a/azure-1.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/ms-one-note.png"/>
 	<img width="36px" src="https://img.icons8.com/nolan/50/notion.png"/>
 	<img width="36px" src="https://img.icons8.com/cute-clipart/64/000000/canva.png"/>"
-<br/>
-
-</div>
-<br/>
-<br/>
+</td>  
+</tr> 
+</table>
 <br/>
 <br/>
 
@@ -156,3 +208,9 @@
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/Ending.svg"/> 
 
 [website]: http://priyadarshanghosh.me/
+
+
+
+
+
+
