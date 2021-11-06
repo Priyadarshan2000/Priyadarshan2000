@@ -10,31 +10,32 @@
 <tr>
 <td>
 <ul>
-<li>🔭 I’m currently working as a Cloud Engineer Intern in Goldman Sachs</li>
+<strong>
+<li>🔭 I’m currently working as a Cloud Engineer Intern in <a href="https://www.goldmansachs.com/worldwide/india/index.html?cid=ps-pd-google-GSBrand-click-6451378954-378037513083&mkwid=snCkKjyu8_dc_pcrid_378037513083_pkw_goldman%20sachs_pmt_e_pdv_c_slid__pgrid_77378565335_ptaid_kwd-10236243_&ptaid=kwd-10236243&gclid=CjwKCAjwz5iMBhAEEiwAMEAwGE9g2ZfTiixtHLIlu50UpRgJpB9WSH8LLTbwQrPzOZt-hbEnjqzk5RoCYmQQAvD_BwE&pgrid=77378565335">Goldman Sachs</a></li>
 <li>👯 Interested in Open Source, Cloud Technology,IOT.</li>
 <li>🎓 Studying Electronics & Communication Engineering.</li>
 <li>🤔 Exploring latest technologies and developing useful web apps</li>
 <li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m currently working on  <strong>Android & Web Project </strong></li>
 <li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> 2021 Goals: Contribute more  projects</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Experimenting with **JS**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Hacktoberfest Contributor[2020]**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Hacktoberfest Contributor[2021]**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Script  Winter of Code(SWOC) Contributor[2020]**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **GirlScript Summer of Code(GSSOC) Contributor[2021]**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Top 6 participants in HACK IN INDIA India's biggest virtual hackthon**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Top 107 participants in Indian super brain(cyber security)**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Top 4 participants in CODIFICATION (State)**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **4th Position in National Level Cipherthon Hackathon.**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **5171st Place in Google Kick Start 2020 Round G**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **2705th Place in Google Kick Start 2020 Round H**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **370th Place(World) 34th(India) Place in Google Codejam 2021**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **207th Place in Google HashCode 2021**</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> **Top 4  in TOI Lost Vote Challenge in India** </li>
-<li>💬 Ask me **something interesting**</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> Fun fact: **Coding is My Crush**</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Co-Founder of **Digicure organisation**</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Co-Founder of **TechDevs organisation**</li>
-
+<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Experimenting with JS</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> Hacktoberfest Contributor[2020]</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> Hacktoberfest Contributor[2021]</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> Script  Winter of Code(SWOC) Contributor[2020]</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> GirlScript Summer of Code(GSSOC) Contributor[2021]</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> Top 6 participants in HACK IN INDIA India's biggest virtual hackthon</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> Top 107 participants in Indian super brain(cyber security)</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> Top 4 participants in CODIFICATION (State)</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> 4th Position in National Level Cipherthon Hackathon.</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> 5171st Place in Google Kick Start 2020 Round G</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> 2705th Place in Google Kick Start 2020 Round H</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> 370th Place(World) 34th(India) Place in Google Codejam 2021</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> 207th Place in Google HashCode 2021</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="20vw" /> Top 4  in TOI Lost Vote Challenge in India </li>
+<li>💬 Ask me something interesting</li>
+<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> Fun fact: Coding is My Crush</li>
+<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Co-Founder of <a href="https://github.com/DIGICURE">Digicure organisation</a></li>
+<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> Co-Founder of <a href="https://github.com/Tech-Devs">TechDevs organisation</a></li>
+</strong>
 </ul>
 </td>
 <td>
@@ -44,9 +45,6 @@
 </td>
 </tr>
 </table>
-
-
-
 
 
 
