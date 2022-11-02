@@ -24,15 +24,15 @@
 	<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Hacktoberfest Maintainer[2022]</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Script  Winter of Code(SWOC) Contributor[2020]</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> GirlScript Summer of Code(GSSOC) Contributor[2021]</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Top 6 participants in HACK IN INDIA India's biggest virtual hackthon</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Top 107 participants in Indian super brain(cyber security)</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Top 4 participants in CODIFICATION (State)</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 6th Position in HACK IN INDIA India's biggest virtual hackthon</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 107th Position in Indian super brain(cyber security)</li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 4th Position in CODIFICATION (State)</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 4th Position in National Level Cipherthon Hackathon.</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 5171st Place in Google Kick Start 2020 Round G</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 2705th Place in Google Kick Start 2020 Round H</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 370th Place(World) 34th(India) Place in Google Codejam 2021</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 207th Place in Google HashCode 2021</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Top 4  in TOI Lost Vote Challenge in India </li>
+<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 4th Position in TOI Lost Vote Challenge in India </li>
 <li>💬 Ask me something interesting</li>
 <li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px" /> Fun fact: Coding is My Crush</li>
 <li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px" /> Co-Founder of <a href="https://github.com/DIGICURE">Digicure organisation</a></li>
