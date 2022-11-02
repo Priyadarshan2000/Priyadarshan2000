@@ -21,6 +21,7 @@
 <li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px" /> Experimenting with JS</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Hacktoberfest Contributor[2020]</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Hacktoberfest Contributor[2021]</li>
+	<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Hacktoberfest Maintainer[2022]</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Script  Winter of Code(SWOC) Contributor[2020]</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> GirlScript Summer of Code(GSSOC) Contributor[2021]</li>
 <li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Top 6 participants in HACK IN INDIA India's biggest virtual hackthon</li>
