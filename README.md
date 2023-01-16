@@ -1,10 +1,10 @@
-<img src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/hello.gif">
+<img src="hello.gif">
 
 
 
-# I'm Priyadarshan <img src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/programmer.gif" width="85px">
+# I'm Priyadarshan <img src="hello-hi.gif" width="35px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="wave.gif" width="29px"> **Hello world!** &nbsp;<img src="" width="24px">
 
 ## 🚀 I'm a  Developer and Student!
 <table width="100%">
@@ -43,7 +43,7 @@
 <td>
 
 
-<img style="width: 100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/dev.gif">
+<img style="width: 100%" src="dev.gif">
 </td>
 </tr>
 </table>
