@@ -12,7 +12,8 @@
 <td>
 <ul>
 <strong>
-<li>🔭 I’m currently working as a Cloud Engineer Intern in <a href="https://www.goldmansachs.com/worldwide/india/index.html?cid=ps-pd-google-GSBrand-click-6451378954-378037513083&mkwid=snCkKjyu8_dc_pcrid_378037513083_pkw_goldman%20sachs_pmt_e_pdv_c_slid__pgrid_77378565335_ptaid_kwd-10236243_&ptaid=kwd-10236243&gclid=CjwKCAjwz5iMBhAEEiwAMEAwGE9g2ZfTiixtHLIlu50UpRgJpB9WSH8LLTbwQrPzOZt-hbEnjqzk5RoCYmQQAvD_BwE&pgrid=77378565335">Goldman Sachs</a></li>
+<li>🔭 I’m currently working as a SDE Intern in <a href="https://www.binance.com/en">Binance</a></li>
+<li>🔭 Ex-Cloud Engineer Intern in <a href="https://www.goldmansachs.com/worldwide/india/index.html?cid=ps-pd-google-GSBrand-click-6451378954-378037513083&mkwid=snCkKjyu8_dc_pcrid_378037513083_pkw_goldman%20sachs_pmt_e_pdv_c_slid__pgrid_77378565335_ptaid_kwd-10236243_&ptaid=kwd-10236243&gclid=CjwKCAjwz5iMBhAEEiwAMEAwGE9g2ZfTiixtHLIlu50UpRgJpB9WSH8LLTbwQrPzOZt-hbEnjqzk5RoCYmQQAvD_BwE&pgrid=77378565335">Goldman Sachs</a></li>
 <li>👯 Interested in Open Source, Cloud Technology,IOT.</li>
 <li>🎓 Studying Electronics & Communication Engineering.</li>
 <li>🤔 Exploring latest technologies and developing useful web apps</li>
@@ -211,8 +212,8 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyadarshan2000&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=Priyadarshan2000&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
+      <!-- <td><img src="https://activity-graph.herokuapp.com/graph?username=Priyadarshan2000&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td> -->
   </tr>
 </table>
    
@@ -222,7 +223,7 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Priyadarshan2000"></a>
   
 </p>
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/Ending.svg"/> 
+<!-- <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/Ending.svg"/>  -->
 
 [website]: http://www.priyadarshanghosh.com/
 
