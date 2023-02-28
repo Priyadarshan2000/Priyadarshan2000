@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/720738/screenshots/3848385/hello_zidler_dribbble.gif">
+![hello_zidler_dribbble](https://user-images.githubusercontent.com/62868878/221974599-b54c2f2e-d20d-46cf-a7f9-80989baa9775.gif)
 
 
 
