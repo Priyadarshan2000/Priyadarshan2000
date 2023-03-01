@@ -2,9 +2,9 @@
 
 
 
-# I'm Priyadarshan <img src="hello-hi.gif" width="35px">
+# I'm Priyadarshan <img src="https://user-images.githubusercontent.com/62868878/222233583-8e691e5f-c334-4d2d-aaa8-a5bdd189e574.gif" width="35px">
 
-### <img src="wave.gif" width="29px"> **Hello world!** &nbsp;<img src="" width="24px">
+### <img src="https://user-images.githubusercontent.com/62868878/222233706-01fddef5-2562-451e-93a6-71fb0f24aeab.gif" width="29px"> **Hello world!** &nbsp;
 
 ## 🚀 I'm a  Developer and Student!
 <table width="100%">
@@ -44,9 +44,9 @@
 <td>
 
 
-<img style="width: 100%" src="dev.gif">
+<img style="width: 100%" src="https://user-images.githubusercontent.com/62868878/222234480-327bc9b4-7ba1-466a-b4ef-40f62edd9d3f.gif">
 </td>
-</tr>
+</tr
 </table>
 
 
