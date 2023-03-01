@@ -17,27 +17,27 @@
 <li>👯 Interested in Open Source, Cloud Technology,IOT.</li>
 <li>🎓 Studying Electronics & Communication Engineering.</li>
 <li>🤔 Exploring latest technologies and developing useful web apps</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px" /> I’m currently working on  <strong>Android & Web Project </strong></li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="29px" /> 2022 Goals: Contribute more  projects</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px" /> Experimenting with JS</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Hacktoberfest Contributor[2020]</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Hacktoberfest Contributor[2021]</li>
-	<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Hacktoberfest Maintainer[2022]</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> Script  Winter of Code(SWOC) Contributor[2020]</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> GirlScript Summer of Code(GSSOC) Contributor[2021]</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 6th Position in HACK IN INDIA India's biggest virtual hackthon</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 107th Position in Indian super brain(cyber security)</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 4th Position in CODIFICATION (State)</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 4th Position in National Level Cipherthon Hackathon.</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 5171st Place in Google Kick Start 2020 Round G</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 2705th Place in Google Kick Start 2020 Round H</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 370th Place(World) 34th(India) Place in Google Codejam 2021</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 207th Place in Google HashCode 2021</li>
-<li><img alt="GIF" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/happy.gif?raw=true" width="29px" /> 4th Position in TOI Lost Vote Challenge in India </li>
+<li>👨🏻‍💻 I’m currently working on  <strong>Android & Web Project </strong></li>
+<li>🎉 2023 Goals: Contribute more  projects</li>
+<li> 🔬 Experimenting with JS</li>
+<li> 💥 Hacktoberfest Contributor[2020]</li>
+<li>💥 Hacktoberfest Contributor[2021]</li>
+<li>💥 Hacktoberfest Maintainer[2022]</li>
+<li>💥 Script  Winter of Code(SWOC) Contributor[2020]</li>
+<li>💥 GirlScript Summer of Code(GSSOC) Contributor[2021]</li>
+<li>🥇 6th Position in HACK IN INDIA India's biggest virtual hackthon</li>
+<li> 🏆 107th Position in Indian super brain(cyber security)</li>
+<li>🥇 4th Position in CODIFICATION (State)</li>
+<li> 🏆 4th Position in National Level Cipherthon Hackathon.</li>
+<li> 🥇 5171st Place in Google Kick Start 2020 Round G</li>
+<li> 🏆 2705th Place in Google Kick Start 2020 Round H</li>
+<li>🥇 370th Place(World) 34th(India) Place in Google Codejam 2021</li>
+<li>🏆 207th Place in Google HashCode 2021</li>
+<li> 🥇 4th Position in TOI Lost Vote Challenge in India </li>
 <li>💬 Ask me something interesting</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px" /> Fun fact: Coding is My Crush</li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px" /> Co-Founder of <a href="https://github.com/DIGICURE">Digicure organisation</a></li>
-<li><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px" /> Co-Founder of <a href="https://github.com/Tech-Devs">TechDevs organisation</a></li>
+<li> 😂 Fun fact: Coding is My Crush</li>
+<li><img alt="GIF" src="https://user-images.githubusercontent.com/62868878/222237004-477a9f3d-fe56-47aa-b0f6-1d4f16e2df7e.gif" width="29px" /> Co-Founder of <a href="https://github.com/DIGICURE">Digicure organisation</a></li>
+<li><img alt="GIF" src="https://user-images.githubusercontent.com/62868878/222237004-477a9f3d-fe56-47aa-b0f6-1d4f16e2df7e.gif" width="29px" /> Co-Founder of <a href="https://github.com/Tech-Devs">TechDevs organisation</a></li>
 </strong>
 </ul>
 </td>
