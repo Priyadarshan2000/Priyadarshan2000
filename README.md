@@ -95,7 +95,7 @@
 	<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
 	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
     <img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
+
 	
 </td>  
 </tr>  
