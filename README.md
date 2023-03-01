@@ -54,32 +54,33 @@
 
 
 # Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-[<img align="left" alt="priyadarshan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="priyadarshan" width="22px" src="https://user-images.githubusercontent.com/62868878/222074062-3c16c329-b8e5-4df6-bf3f-9e58e25346b4.png" />][website]
+
 
 <a href="https://twitter.com/way2priyo">
-  <img align="left" alt="Priyadarshan Ghosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Priyadarshan Ghosh | Twitter" width="22px" src="https://user-images.githubusercontent.com/62868878/222074382-6f224fd2-0217-4350-9d7b-a6e271d3afb4.png" />
 </a>
 <a href="https://www.linkedin.com/in/priyadarshan-ghosh-0a6274190/">
-  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt=" Linkedin" width="22px" src="https://user-images.githubusercontent.com/62868878/222074633-8c463a00-8029-4739-9483-15fa6e634611.png" />
 </a>
 <a href="https://github.com/Priyadarshan2000">
-  <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt=" GitHub" width="22px" src="https://user-images.githubusercontent.com/62868878/222075203-87fe55ce-e761-44dc-a3ec-517586c9ab8f.png" />
 </a>
 <a href="mailto:priyadarshanghosh26@gmail.com">
-  <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt=" Mail" width="22px" src="https://user-images.githubusercontent.com/62868878/222075208-0e0cd347-a89a-493d-9395-490b146bcaf1.png" />
 </a>
 <a href="https://www.facebook.com/priyadarshan.ghosh.9/">
-  <img align="left" alt=" Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt=" Facebook" width="22px" src="https://user-images.githubusercontent.com/62868878/222074709-0653b486-9644-419a-b339-bf0b066d181f.png" />
 </a>
 <a href="https://www.instagram.com/way2priyadarshan/">
-  <img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt=" Instagram" width="22px" src="https://user-images.githubusercontent.com/62868878/222075461-70e8656e-433f-4932-bd0e-372520779b1d.png" />
 </a>
 
-<a href="https://www.codechef.com/users/priyadarshan_2">
+<!-- <a href="https://www.codechef.com/users/priyadarshan_2">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 <a href="https://www.hackerrank.com/priyadarshangho1">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+</a> -->
 <br></br>
 
 ## 💻 Languages and Tools:
@@ -91,7 +92,7 @@
 	<img width="36px"src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
 	<img width="36px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
     <img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
-	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+	<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
 	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
     <img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
@@ -101,12 +102,14 @@
 <tr align="center">  
 <td width="50%"><strong>FRONTEND</strong></td>  
 <td width="50%">
-	 <img alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+	 <img alt="HTML5" width="36px" src="https://user-images.githubusercontent.com/62868878/222076572-d851b108-17a5-4ab3-95d8-75cf1fbdaf78.png" />
+	<img alt="CSS3" width="36px" src="https://user-images.githubusercontent.com/62868878/222076427-7c7428c8-0354-4bcc-b2f4-5d5910d8eea3.png" />
     <img width="36px" src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
-	<img alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
+    <img width="36px" src="https://user-images.githubusercontent.com/62868878/222077353-eb570c36-a97a-4e21-8372-3febcad0e5d5.png" />
 	<img alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img alt="TS" width="36px" src="https://user-images.githubusercontent.com/62868878/222079489-12e21e41-ea30-48c6-bacc-04e7e3d7cde2.png"/>
+	<img alt="Vue" width="36px" src="https://user-images.githubusercontent.com/62868878/222077764-f5b776b3-b59f-4691-b92c-2769138525e7.png"/>
     <img alt="Express.js" width="36px" src="https://img.icons8.com/color/48/000000/js.png" />
 	<img width="36px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 </td>  
@@ -115,13 +118,12 @@
 <td width="50%"><strong>BACKEND</strong></td>  
 <td width="50%">
      <img width="36px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
-	<img alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+	<img alt="Node.js" width="36px" src="https://user-images.githubusercontent.com/62868878/222077981-2d22be91-3ba4-42f1-9136-d9c02de5fc64.png" />
 	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
 	<img alt="Firebase" width="36px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 	<img width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
     <img width="36px"  src="https://img.icons8.com/nolan/96/php.png"/>
-    <img width="36px"  src="https://img.icons8.com/color/48/000000/flask.png"/>
     <img width="36px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
 </td>  
 </tr>  
@@ -141,7 +143,7 @@
 <td width="50%"><strong>VERSION CONTROL</strong></td>  
 <td width="50%">
    <img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
-	<img alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+	<img alt="Terminal" width="36px" src="https://user-images.githubusercontent.com/62868878/222078705-45b61c9f-bf97-4c57-89a7-649e8f6678d3.png" />
     <img alt="GitHub" width="36px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 </td>  
 </tr>  
