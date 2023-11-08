@@ -1,6 +1,5 @@
 ![hello_zidler_dribbble](https://user-images.githubusercontent.com/62868878/221974599-b54c2f2e-d20d-46cf-a7f9-80989baa9775.gif)
 
-
 # I'm Priyadarshan <img src="https://user-images.githubusercontent.com/62868878/222233583-8e691e5f-c334-4d2d-aaa8-a5bdd189e574.gif" width="35px">
 
 ### <img src="https://user-images.githubusercontent.com/62868878/222233706-01fddef5-2562-451e-93a6-71fb0f24aeab.gif" width="29px"> **Hello world!** &nbsp;
