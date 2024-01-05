@@ -16,7 +16,7 @@
 <li>🎓 Studying Electronics & Communication Engineering.</li>
 <li>🤔 Exploring latest technologies and developing useful web apps</li>
 <li>👨🏻‍💻 I’m currently working on  <strong>Android & Web Project </strong></li>
-<li>🎉 2023 Goals: Contribute more  projects</li>
+<li>🎉 2024 Goals: Contribute more  projects</li>
 <li> 🔬 Experimenting with JS</li>
 <li> 💥 Hacktoberfest Contributor[2020]</li>
 <li>💥 Hacktoberfest Contributor[2021]</li>
