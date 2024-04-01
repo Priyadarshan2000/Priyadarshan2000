@@ -225,7 +225,7 @@
 </p>
 <!-- <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/Ending.svg"/>  -->
 
-[website]: http://www.priyadarshanghosh.com/
+[website]: [http://www.priyadarshanghosh.com/](https://priyadarshan2000.github.io/)
 
 
 
